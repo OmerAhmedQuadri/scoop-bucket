@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/OmerAhmedQuadri/localhoxt.com/releases/download/v0.1.0/lhx_0.1.0_windows_amd64.zip",
+            "bin": [
+                "lhx.exe"
+            ],
+            "hash": "bb80163f100250ad9049ef63452658e31c04ca564239c444a9b022fbffa3b460"
+        }
+    },
+    "homepage": "https://localhoxt.com",
+    "license": "MIT",
+    "description": "Expose localhost to the internet instantly"
+}
